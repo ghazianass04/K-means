@@ -339,9 +339,4 @@ The project also provides practical experience with:
 
 ---
 
-## 👤 Author
 
-**Anass Ghazi**
-
-Master's Student in Applied Computer Science
-Interested in Data Analytics, Data Science, and AI/ML
